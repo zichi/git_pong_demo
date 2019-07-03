@@ -1,6 +1,6 @@
 ## Learning Git Pong
 This is a text
 This is a text from Anatolii
-**Cool** stuff happening here
+**Cool** lets break this line of text
 
 new text of doom
